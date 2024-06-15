@@ -14,6 +14,10 @@ body {
   height: 100vh;
 }
 
+h1 {
+  margin-bottom: 16px;
+}
+
 #legenda {
   width: 100%;
   display: flex;

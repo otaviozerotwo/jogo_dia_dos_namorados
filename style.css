@@ -43,3 +43,9 @@ a {
 a:hover {
   color: #dad9d9;
 }
+
+/* @media (max-width: 430px) {
+  body {
+    width: 430px;
+  }
+} */
