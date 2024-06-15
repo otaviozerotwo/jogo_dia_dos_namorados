@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen:wght@700&display=swap');
+
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(45deg, #841313, #AA1151);
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  min-width: 100vh;
+}
+
+main.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 450px;
+}
+
+h1 {
+  font-family: 'Silkscreen', cursive;
+  font-size: 48px;
+  text-align: center;
+  margin: 20px 0px;
+}
+
+a {
+  margin: 20px 0px;
+  text-decoration: none;
+  font-size: 32px;
+  color: #FFF;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+a:hover {
+  color: #dad9d9;
+}
